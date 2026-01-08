@@ -18,23 +18,23 @@
 
 A next-generation Web3 platform where **smart contracts become experiences**, not headaches.
 
-- ⚙️ Visual contract builder
-- 🌐 Ethereum • Soroban • XRPL (and more incoming)
-- 🎮 Casinos • Marketplaces • On-chain games
-- 🧠 Developer-first. Production-ready.
+-  Visual contract builder
+-  Ethereum • Soroban • XRPL (and more incoming)
+-  Casinos • Marketplaces • On-chain games
+-  Developer-first. Production-ready.
 
 > A platform. An ecosystem. A movement.
 
 ---
 
-## ⛓️ Nine Ether — *A Deterministic Compute Fabric*
+## Nine Ether — *A Deterministic Compute Fabric*
 
 <img src="https://readme-typing-svg.herokuapp.com?color=00FFFF&width=800&lines=Not+just+a+blockchain.;A+statechain.;Gasless.+Deterministic.+Powerful.;Built+for+games%2C+AI%2C+finance%2C+logistics." />
 
-- ⚡ Sub-second deterministic execution  
-- 🧱 Custom `.nine` language + VM  
-- 🌌 State-driven compute fabric  
-- 🎮 Built for massive real-time worlds & simulations  
+-  Sub-second deterministic execution  
+-  Custom `.nine` language + VM  
+-  State-driven compute fabric  
+-  Built for massive real-time worlds & simulations  
 
 > Not another chain, a paradigm shift.
 
@@ -61,10 +61,10 @@ A next-generation Web3 platform where **smart contracts become experiences**, no
 
 <img src="https://readme-typing-svg.herokuapp.com?color=FFA500&width=800&lines=Games+as+ecosystems.;Worlds+as+living+systems.;Technology+as+storytelling." />
 
-- 🕹️ On-chain casinos  
-- 🌌 GBA-style blockchain adventures  
-- 🧬 Fully simulated, deterministic universes  
-- 🎭 Lore meets engineering  
+-  On-chain casinos  
+-  GBA-style blockchain adventures  
+-  Fully simulated, deterministic universes  
+-  Lore meets engineering  
 
 > Don’t just play. Build. Experience. Exist.
 
