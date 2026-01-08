@@ -96,7 +96,7 @@ A next-generation Web3 platform where **smart contracts become experiences**, no
 
 ## ⚡ Founder Energy
 
-- 🧠 I invent systems that shouldn’t exist — then make them real  
+- 🧠 I invent systems that shouldn’t exist, then make them real  
 - 🏗️ I build platforms, not features  
 - 🎮 I merge gaming, blockchain, AI, & storytelling into ecosystems  
 - 🎯 Relentlessly execution-focused  
