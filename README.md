@@ -27,7 +27,7 @@ A next-generation Web3 platform where **smart contracts become experiences**, no
 
 ---
 
-## Nine Ether — *A Deterministic Compute Fabric*
+## Nine Compute - *A Deterministic Compute Fabric*
 
 <img src="https://readme-typing-svg.herokuapp.com?color=00FFFF&width=800&lines=Not+just+a+blockchain.;A+statechain.;Gasless.+Deterministic.+Powerful.;Built+for+games%2C+AI%2C+finance%2C+logistics." />
 
