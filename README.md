@@ -1,231 +1,183 @@
 <!-- HERO -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:14041E,40:2A0B3D,100:5B1A68&height=220&section=header&text=Sheron%20Gibson&fontSize=48&fontColor=ffffff&animation=fadeIn&desc=Platform%20Engineer%20%E2%80%A2%20Web3%20Infrastructure%20%E2%80%A2%20Deterministic%20Compute&descAlignY=68" width="100%"/>
-</p>
-<p align="center">
-🦐 Creator of a highest converting shrimp based developer tool on the market. (Shrimp Check)<br>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:14041E,40:2A0B3D,100:5B1A68&height=220&section=header&text=Sheron%20Gibson&fontSize=48&fontColor=ffffff&animation=fadeIn&desc=Platform%20Engineer%20%E2%80%A2%20Full%20Stack%20Systems%20%E2%80%A2%20Developer%20Tooling&descAlignY=68" width="100%"/>
 </p>
 
-<h2 align="center">Building deterministic systems, programmable infrastructure, and next generation developer platforms.</h2>
+<h2 align="center">
+Building production systems, developer tooling, and operational software that solve real problems.
+</h2>
 
 <p align="center">
-🚀 Founder of <b>Contract OS</b><br>
-🧠 Architect of Statechains, replayable systems, and temporal simulation engines
+Platform Engineer • Internal Tools • Deterministic Systems
 </p>
 
 ---
 
 # 👨🏾‍💻 About Me
 
-<img src="https://readme-typing-svg.herokuapp.com?color=3ECF8E&width=800&lines=Platform+Engineer.;Web3+Infrastructure+Builder.;Deterministic+Systems+Architect." />
+<img src="https://readme-typing-svg.herokuapp.com?color=3ECF8E&width=900&lines=Platform+Engineer.;Full+Stack+Systems+Builder.;Operational+Software+Developer.;Developer+Tooling+Engineer." />
 
-I'm a systems focused developer building platform level infrastructure for Web3, game engines, and developer tooling.
+I'm a systems-focused engineer building operational software, developer tooling, and platform infrastructure.
 
-My work focuses on:
+My work spans:
 
-- Deterministic systems
-- Replayable architectures
-- Smart contract infrastructure
-- Real time simulation engines
-- MMO Game Engines
+- Internal tools & workflow automation  
+- Logistics & inventory systems  
+- Full-stack applications  
+- Developer tooling  
+- Deterministic runtimes & replayable systems  
+- Platform engineering
 
-I build **systems that can be observed, verified, and replayed.**
-
----
-
-# 🚀 Major Projects
-
-## Contract OS
-
-A visual operating system for building and managing smart contracts.
-
-Features include:
-
-- Visual contract builder
-- SmartPage Deployment
-- Template marketplace
-- Contract management dashboards
-- Developer focused infrastructure
+I enjoy building software that improves workflows, removes friction, and solves real operational problems.
 
 ---
 
-## Replay Engine
+# 🚀 Featured Projects
 
-A deterministic execution engine designed for:
+## Contract OS — Deterministic Developer Platform
 
-- System replay
-- State verification
-- Simulation
-- Timeline analysis
-- Temporal simulation mechanics for games 
+A developer platform for building, deploying, and managing smart contracts, runtime systems, and developer tooling.
 
-Run a system → rewind it → verify it → simulate alternate paths.
+### Highlights
 
----
+- Smart contract generation pipelines
+- Deployment tooling & artifact packaging
+- ABI / bytecode compilation systems
+- Contract dashboards & lifecycle management
+- Wallet integrations & developer workflows
+- Replay-first runtime experimentation
 
-These systems are designed to power replayable software,
-deterministic worlds, and next generation developer platforms.
-
----
-
-# 🧬 Statechains & the .nine Language
-
-I am building a new paradigm for application and contract development:
-
-### **Statechains**
-
-Statechains are deterministic execution systems where:
-
-- Every action is recorded
-- Every state transition is reproducible
-- Entire systems can be replayed from genesis
-
-This enables:
-
-- Verifiable execution
-- Debuggable timelines
-- Replayable applications
-- Deterministic simulation environments
+**Tech:** React, TypeScript, Node.js, AWS, Supabase, PostgreSQL, Solidity
 
 ---
 
-### **.nine (Custom Smart Contract Language)**
+## Shipyard Inventory Management System *(Used in Production)*
 
-`.nine` is a purpose-built language designed to power Statechains.
+An internal inventory and material accountability system built for shipyard operations.
 
-It allows developers to define:
+### Highlights
 
-- Smart contract logic
-- Application behavior
-- UI interactions
-- Game systems
+- Tracked Government Furnished Material (GFM), commercial materials, tools, and equipment
+- Managed gas bottle tracking across multiple yard zones
+- Calibration & compliance tracking for operational equipment
+- Document uploads for certifications and audit readiness
+- Used daily in production to support warehouse operations and material visibility
 
-**All within a single deterministic file.**
+**Outcome:** Leadership supported broader implementation discussions across additional warehouse operations.
 
----
-
-### Why this matters
-
-Traditional systems:
-- ❌ Non-deterministic
-- ❌ Hard to debug
-- ❌ Impossible to fully replay
-
-Statechains + .nine:
-- ✅ Fully replayable systems
-- ✅ Deterministic execution
-- ✅ Built-in verification
-- ✅ Time-travel debugging
+**Tech:** React, Node.js, AWS, Supabase, PostgreSQL
 
 ---
 
-This is the foundation for:
+## 🦐 Shrimp Check — VS Code Extension *(170+ Users)*
 
-- Replayable applications
-- Deterministic game engines
-- Verifiable AI systems
-- Next-generation Web3 infrastructure
+A lightweight developer productivity extension designed to improve posture awareness for developers.
 
----
+### Highlights
 
-# 🦐 Shrimp Check (Viral Dev Tool)
+- 170+ organic installs
+- Marketplace-driven growth (0 paid promotion)
+- Real-time VS Code status bar integration
+- Streak tracking & reminders
+- Lightweight workflow integration
 
-A playful VS Code extension that turned into a real-world signal:
+**Key Insight:** Developers adopt tools that are frictionless, obvious, and immediately useful.
 
-Developers install things that are **simple, useful, and immediate**
+Built and shipped in ~1 hour. Actively maintained.
 
----
-
-### What it does
-
-- Tracks posture over time
-- Warns when "shrimp form" begins 🦐
-- Escalates to **"cooked" mode** 🍤 if ignored
-- Includes streak tracking + hydration reminders
+**Tech:** TypeScript, VS Code API
 
 ---
 
-### Real Metrics (First 48–72 Hours)
+## Craft & Cheer — Production E-Commerce Platform
 
--  40+ installs organically
--  100%+ conversion rate (Marketplace anomaly)
--  Majority installs from marketplace discovery (not promotion)
+A production-ready e-commerce platform built for a real small business.
 
----
+### Highlights
 
-### Key Insight
+- Real-time product listings & order management
+- Secure payment processing
+- Responsive UX optimized for mobile conversion
+- Backend inventory & customer management
+- Replaced manual ordering workflows
 
-> The tools developers actually use are:
-> - frictionless
-> - obvious
-> - immediately valuable
-
----
-
-Built and shipped in ~1 hour.
-
-Now actively used and maintained.
+**Tech:** React, Tailwind, Stripe, Supabase, PostgreSQL
 
 ---
 
-Published under:
+## Replay Systems & Deterministic Runtime Research
 
-👉 **Contract OS**
+Exploring replayable systems and deterministic execution models for debugging, simulation, and reproducible workflows.
 
-Meaning:
+### Areas of Focus
 
-This is not just a tool…
+- State replay
+- Deterministic execution
+- Timeline verification
+- Simulation environments
+- Observable systems
 
-It’s part of a growing developer ecosystem.
+---
 
 # 🧰 Core Technologies
 
-### Languages & Configuration
+### Languages
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript)
+![Python](https://img.shields.io/badge/Python-3670A0?logo=python)
 ![Rust](https://img.shields.io/badge/Rust-000?logo=rust)
 ![Go](https://img.shields.io/badge/Go-00ADD8?logo=go)
-![Python](https://img.shields.io/badge/Python-3670A0?logo=python)
-![YAML](https://img.shields.io/badge/YAML-CB171E?logo=yaml)
+![SQL](https://img.shields.io/badge/SQL-336791?logo=postgresql)
+![Lua](https://img.shields.io/badge/Lua-2C2D72?logo=lua)
 
 ---
 
-### Infrastructure & Systems
+### Frontend & UI
 
 ![React](https://img.shields.io/badge/React-20232A?logo=react)
+![Next.js](https://img.shields.io/badge/Next.js-000000?logo=next.js)
+![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?logo=tailwindcss)
+![Framer Motion](https://img.shields.io/badge/Framer_Motion-black?logo=framer)
+
+---
+
+### Backend & Cloud
+
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?logo=node.js)
+![Express](https://img.shields.io/badge/Express-000000?logo=express)
 ![AWS](https://img.shields.io/badge/AWS-FF9900?logo=amazonaws)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?logo=supabase)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql)
 ![PM2](https://img.shields.io/badge/PM2-2B037A?logo=pm2)
-![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux)
 
 ---
 
-### Distributed Systems & Compute
+### Developer Platforms & Systems
 
-![Compute Fabric](https://img.shields.io/badge/Compute-Fabrics-5B1A68)
-![Deterministic Systems](https://img.shields.io/badge/Deterministic-Execution-14041E)
+![Deterministic Systems](https://img.shields.io/badge/Deterministic-Systems-14041E)
+![Replay Systems](https://img.shields.io/badge/Replayable-Systems-5B1A68)
 ![Hyperledger Fabric](https://img.shields.io/badge/Hyperledger-Fabric-2F3134?logo=hyperledger)
 
 ---
 
-### Blockchain & Web3
+### Blockchain *(Secondary Focus)*
 
 ![Solidity](https://img.shields.io/badge/Solidity-363636?logo=solidity)
 ![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?logo=ethereum)
-![XRPL](https://img.shields.io/badge/XRPL-000000?logo=ripple)
 ![Stellar](https://img.shields.io/badge/Stellar-070707?logo=stellar)
+![XRPL](https://img.shields.io/badge/XRPL-000000?logo=ripple)
 
 ---
 
 # ⚡ Development Philosophy
 
-- Build **platforms**, not features
-- Design **observable systems**
-- Prioritize **deterministic architectures**
-- Create tools developers actually want to use
+- Build systems that solve real operational problems  
+- Prioritize usability and workflow efficiency  
+- Design observable, maintainable architectures  
+- Ship practical software people actually want to use  
+- Focus on end-to-end ownership from idea → deployment
 
 ---
 
@@ -256,5 +208,5 @@ It’s part of a growing developer ecosystem.
 ---
 
 <p align="center">
-<i>"Tabs or Spaces? 👀"</i>
+<i>"Build useful things."</i>
 </p>
