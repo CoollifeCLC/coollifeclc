@@ -75,7 +75,7 @@ A lightweight developer productivity extension designed to improve posture aware
 
 ### Highlights
 
-- 170+ organic installs
+- 215+ organic installs
 - Marketplace-driven growth (0 paid promotion)
 - Real-time VS Code status bar integration
 - Streak tracking & reminders
