@@ -69,7 +69,7 @@ An internal inventory and material accountability system built for shipyard oper
 
 ---
 
-## 🦐 Shrimp Check — VS Code Extension *(170+ Users)*
+## 🦐 Shrimp Check — VS Code Extension *(215+ Users)*
 
 A lightweight developer productivity extension designed to improve posture awareness for developers.
 
