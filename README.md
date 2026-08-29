@@ -58,7 +58,7 @@ Rather than treating a model as a static artifact, Atlas Lab provides an end-to-
 * Electron desktop application connected to the Atlas web platform
 * Resident evolution and lifecycle visualization
 
-Atlas Lab currently includes multiple specialized residents, including **Nexus**, its coding resident.
+Atlas Lab currently includes multiple specialized residents, including **Nexus**, its coding resident. Try it now @ www.trainatlas.dev
 
 **Tech:** TypeScript, React, Electron, Node.js, Python, PyTorch, llama.cpp, Supabase, PostgreSQL, AWS
 
