@@ -289,18 +289,6 @@ Building practical applications around real operational workflows rather than is
 
 ---
 
-# 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=CoollifeCLC&show_icons=true&theme=dark&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=CoollifeCLC&layout=compact&theme=dark" />
-</p>
-
----
-
 # 🌐 Connect
 
 <p align="center">
