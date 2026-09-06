@@ -101,7 +101,7 @@ Its compute architecture includes **Nine Compute**, a deterministic execution la
 * Runtime orchestration
 * Developer platform tooling
 * Platform administration systems
-* Self-healing architecture experiments
+* Self-healing/drift detecting substrate architecture experiments
 * Deterministic execution verification
 
 Previous compute benchmarks have demonstrated multi-million-action-per-second raw execution throughput under controlled workloads.
