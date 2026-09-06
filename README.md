@@ -156,7 +156,7 @@ Built from direct operational experience to replace fragmented manual workflows 
 
 ---
 
-## 🦐 Shrimp Check — VS Code Developer Tool
+## 🦐 Shrimp Check — VS Code Developer Tool - 285+ Users
 
 A lightweight VS Code productivity extension built around an intentionally simple idea: developers shouldn't need to leave their workflow to remember to move.
 
