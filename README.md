@@ -31,7 +31,7 @@ My work spans:
 * Internal tools & workflow automation
 * Operational and logistics software
 
-I like owning difficult problems end-to-end — from architecture and runtime behavior to APIs, infrastructure, desktop applications, and user-facing interfaces.
+I like owning difficult problems end-to-end, from architecture and runtime behavior to APIs, infrastructure, desktop applications, and user-facing interfaces.
 
 ---
 
